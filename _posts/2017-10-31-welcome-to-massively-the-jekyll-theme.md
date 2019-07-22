@@ -1,28 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+title:  "Resume"
+date:   2019-07-22
+excerpt: "This is my personal resume"
 image: "/images/pic02.jpg"
 ---
 
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+## Resume
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
+### Contact
 
-Open a terminal window or a command line and ```cd``` to that location.
+- Email: chuqiguang@gmail.com
+- Phone: 343-988-8959
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+### Information
 
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the front matter of each site. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
-### Formspring integration
-The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
+- Name: Qiguang Chu
+- Sex: Male
+- Date of Birth: 1996/02/02
+- Study: Graduate at University of Ottawa
+- Major: Electrical and Engineering
+- Website: https://featherblacker.github.io
