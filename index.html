@@ -4,9 +4,9 @@ title: FeatherBlack
 comments: true
 description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
 sitemap:
-    priority: 1.0
-    lastmod: 2019-07-21
-    changefreq: yearly
+priority: 1.0
+lastmod: 2019-07-21
+changefreq: yearly
 ---
 <!DOCTYPE HTML>
 <!--
@@ -16,94 +16,95 @@ sitemap:
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
+<head>
     {% include head.html %}
 
 
-	</head>
-	<body class="is-loading">
+</head>
+<body class="is-loading">
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+<!-- Wrapper -->
+<div id="wrapper" class="fade-in">
 
-				<!-- Intro -->
-					<div id="intro">
-            <h1>{{site.title}}</h1>
-						<h2>Personal Blog</h2>
-						<p>FeatherBlack is a personal website maintained by Qiguang Chu</a><br />
-						<ul class="actions">
-							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
-						</ul>
-					</div>
+    <!-- Intro -->
+    <div id="intro">
+        <h1>{{site.title}}</h1>
+        <h2>Personal Blog</h2>
+        <p>FeatherBlack is a personal website maintained by Qiguang Chu</a><br/>
+        <ul class="actions">
+            <li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+        </ul>
+    </div>
 
-				<!-- Header -->
-					<header id="header">
-						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-					</header>
+    <!-- Header -->
+    <header id="header">
+        <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+    </header>
 
-				<!-- Nav -->
-					<nav id="nav">
+    <!-- Nav -->
+    <nav id="nav">
 
-            {% include nav.html %}
+        {% include nav.html %}
 
-					</nav>
+    </nav>
 
-				<!-- Main -->
-					<div id="main">
-						<!-- Featured Post -->
-							<article class="post featured">
-								<header class="major">
-									<h2><a href="#">Hard work pays off</a></h2>
-									<p>The heavy sword has no edge, but it does work well.</p>
-								</header>
-								<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
-								<p>什么时候有空什么时候写</p>
-							</article>
+    <!-- Main -->
+    <div id="main">
+        <!-- Featured Post -->
+        <article class="post featured">
+            <header class="major">
+                <h2><a href="#">Woying Grocery Delivery</a></h2>
+                <p>The heavy sword has no edge, but it does work well.</p>
+            </header>
+            <a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
+            <p>什么时候有空什么时候写</p>
+        </article>
 
-						<!-- Posts -->
-							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
-  								<article>
-  									<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-  									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">More</a></li>
-  									</ul>
-  								</article>
-                  {% if mod3 == 0 %}
-                  <article>
-  									<header>
-  										<h2><a href="#">Sponsored</a></h2>
-  									</header>
-
-  								</article>
-                  {% endif %}
-                {% endfor %}
-
-							</section>
-
-						<!-- Footer -->
-							<footer>
+        <!-- Posts -->
+        <section class="posts">
+            {% for post in site.posts limit:3 %}
+            {% assign mod3 = forloop.index | modulo: 3 %}
+            <article>
+                <header>
+                    <span class="date">{{ post.date | date_to_string }}</span>
+                    <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+                </header>
+                <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}"
+                                                                               alt=""/></a>
+                <p>{{ post.excerpt }}</p>
                 <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+                    <li><a href="{{ post.url | absolute_url }}" class="button">More</a></li>
                 </ul>
-							</footer>
+            </article>
+            {% if mod3 == 0 %}
+            <article>
+                <header>
+                    <h2><a href="#">Sponsored</a></h2>
+                </header>
 
-					</div>
+            </article>
+            {% endif %}
+            {% endfor %}
 
-				<!-- Footer -->
-        {% include foot.html %}
+        </section>
 
-			</div>
+        <!-- Footer -->
+        <footer>
+            <ul class="actions">
+                <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+            </ul>
+        </footer>
 
-		<!-- Scripts -->
-		{% include scripts-main.html %}
-    {% include tracking.html %}
+    </div>
 
-	</body>
+    <!-- Footer -->
+    {% include foot.html %}
+
+</div>
+
+<!-- Scripts -->
+{% include scripts-main.html %}
+{% include tracking.html %}
+
+</body>
 </html>
