@@ -33,10 +33,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c5a700-32c3-4f08-bbf9-589b3540a838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Resume.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-21-resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/2019-07-21-resume.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Resume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-07-21-resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/resume.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +78,7 @@
       <workItem from="1602713647940" duration="4139000" />
       <workItem from="1602728969635" duration="3071000" />
       <workItem from="1604552840020" duration="598000" />
-      <workItem from="1604687405976" duration="5380000" />
+      <workItem from="1604687405976" duration="6275000" />
     </task>
     <servers />
   </component>
@@ -102,10 +100,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="701" y="469" width="596" height="536" key="find.popup" timestamp="1604692764589">
+    <state x="701" y="469" width="596" height="536" key="find.popup" timestamp="1604694479502">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="701" y="469" width="596" height="536" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604692764589" />
+    <state x="701" y="469" width="596" height="536" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604694479502" />
     <state x="471" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1602732763719">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
