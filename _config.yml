@@ -2,10 +2,10 @@
 title:              FeatherBlack
 bio:                'Managed by Qiguang Chu'
 description:        "Personal Website"
-locale:             en_US
+locale:             en_CA
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-disqus_username: featherblacker
+disqus_username: featherblack
 
 # Comments
 disqus_shortname:   default
@@ -14,14 +14,13 @@ disqus_shortname:   default
 analytics-id:       "default"
 twitter:            Featherblacker
 facebook:           qiguang.chu.9
-instagram:          default
+instagram:          chuqiguang
 github:             featherblacker
 
 # personal
 location:           Ottawa, ON
 phone:              343-988-8959
-email:              chuqiguang@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
-
+email:              chuqiguang@gmail.com
 # Other
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
@@ -34,7 +33,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    author:
+    author: Qiguang Chu
 
 # Jekyll
 permalink:          /blog/:title/
