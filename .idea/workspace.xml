@@ -33,7 +33,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c5a700-32c3-4f08-bbf9-589b3540a838" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/Profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ShoppingCart.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-30-woying-grocery-delivery.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-30-woying-grocery-delivery.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/resume.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +66,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chuqi\WebstormProjects\featherblacker.github.io\images" />
       <recent name="C:\Users\chuqi\WebstormProjects\featherblacker.github.io" />
     </key>
   </component>
@@ -78,7 +83,7 @@
       <workItem from="1602713647940" duration="4139000" />
       <workItem from="1602728969635" duration="3071000" />
       <workItem from="1604552840020" duration="598000" />
-      <workItem from="1604687405976" duration="7592000" />
+      <workItem from="1604687405976" duration="9376000" />
     </task>
     <servers />
   </component>
