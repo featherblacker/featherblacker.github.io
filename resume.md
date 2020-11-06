@@ -8,4 +8,4 @@ sitemap:
     changefreq: weekly
 ---
 
-![avatar](/images/Resume.jpg)
+<span class="image"><img src="{{ "/images/Resume.jpg" | absolute_url }}" alt="" style="width: 80%"/></span>
