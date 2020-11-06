@@ -18,8 +18,6 @@ changefreq: yearly
 <html>
 <head>
     {% include head.html %}
-
-
 </head>
 <body class="is-loading">
 
@@ -30,7 +28,7 @@ changefreq: yearly
     <div id="intro">
         <h1>{{site.title}}</h1>
         <h2>Personal Blog</h2>
-        <p>FeatherBlack is a personal website maintained by Qiguang Chu</a><br/>
+        <p>FeatherBlack is a personal website maintained by Qiguang Chu</p><br/>
         <ul class="actions">
             <li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
         </ul>
@@ -53,15 +51,15 @@ changefreq: yearly
         <!-- Featured Post -->
         <article class="post featured">
             <header class="major">
-                <h2><a href="#">Woying Grocery Delivery</a></h2>
+                <h2><a href="{{ post.url | absolute_url }}">Woying Grocery Delivery</a></h2>
                 <p>A single page application designed to help people order food and necessaries online and delivery</p>
             </header>
-            <a href="#" class="image main"><img src="{{ "/images/Woying_homepage.png" | absolute_url }}" alt="" /></a>
+            <a href="{{ post.url | absolute_url }}" class="image main"><img src="{{ "/images/Woying_homepage.png" | absolute_url }}" alt="" /></a>
             <p>This website is developed using ReactJS library and supported by Restful API designed by OCMA. It helps
             people login, fill in address information, select merchandise, add to cart and check out. Clients' orders will
                  be saved and sent to the back end server. The grocery distributor would write down and prepare food for
                 customers with a delivery date. People will receive their orders in the right time without any worry.
-                The website is well designed and functional well.
+                The website is well designed and well-functioning.
             </p>
         </article>
 

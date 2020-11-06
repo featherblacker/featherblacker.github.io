@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bundler" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="07c5a700-32c3-4f08-bbf9-589b3540a838" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-09-30-woying-grocery-delivery.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,18 +67,31 @@
       <option name="presentableId" value="Default" />
       <updated>1602713645852</updated>
       <workItem from="1602713647940" duration="4139000" />
-      <workItem from="1602728969635" duration="2232000" />
+      <workItem from="1602728969635" duration="3071000" />
+      <workItem from="1604552840020" duration="598000" />
+      <workItem from="1604687405976" duration="1204000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="701" y="469" width="596" height="536" key="find.popup" timestamp="1602732819596">
+    <state x="701" y="469" width="596" height="536" key="find.popup" timestamp="1604688456621">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="701" y="469" width="596" height="536" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602732819596" />
+    <state x="701" y="469" width="596" height="536" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604688456621" />
     <state x="471" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1602732763719">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
