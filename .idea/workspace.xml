@@ -33,12 +33,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c5a700-32c3-4f08-bbf9-589b3540a838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ShoppingCart.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-09-30-woying-grocery-delivery.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-30-woying-grocery-delivery.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/resume.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ShoppingCart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Woying_homepage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,10 @@
       <workItem from="1602713647940" duration="4139000" />
       <workItem from="1602728969635" duration="3071000" />
       <workItem from="1604552840020" duration="598000" />
-      <workItem from="1604687405976" duration="9376000" />
+      <workItem from="1604687405976" duration="11454000" />
+      <workItem from="1604853504125" duration="599000" />
+      <workItem from="1604886750589" duration="725000" />
+      <workItem from="1605051457405" duration="72000" />
     </task>
     <servers />
   </component>
@@ -100,6 +103,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
