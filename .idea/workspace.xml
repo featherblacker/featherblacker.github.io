@@ -33,7 +33,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c5a700-32c3-4f08-bbf9-589b3540a838" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/icon/favicon2.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/favicon.ico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +83,7 @@
       <workItem from="1604687405976" duration="11454000" />
       <workItem from="1604853504125" duration="599000" />
       <workItem from="1604886750589" duration="725000" />
-      <workItem from="1605051457405" duration="1023000" />
+      <workItem from="1605051457405" duration="1548000" />
     </task>
     <servers />
   </component>
