@@ -32,7 +32,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c5a700-32c3-4f08-bbf9-589b3540a838" name="Default Changelist" comment="">
+    <list default="true" id="07c5a700-32c3-4f08-bbf9-589b3540a838" name="Default Changelist" comment="Image">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -42,7 +42,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9d149be82097c9988aba53f4f31859dc2d836f32" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1it4dz5KVTM1C9PypFE1FaT6VaS" />
   <component name="ProjectLevelVcsManager">
@@ -92,7 +103,7 @@
       <workItem from="1605051457405" duration="2269000" />
       <workItem from="1605219201663" duration="294000" />
       <workItem from="1605499766981" duration="2169000" />
-      <workItem from="1607353425867" duration="3112000" />
+      <workItem from="1607353425867" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="Image">
       <created>1605500006679</created>
@@ -101,35 +112,7 @@
       <option name="project" value="LOCAL" />
       <updated>1605500006679</updated>
     </task>
-    <task id="LOCAL-00002" summary="Image">
-      <created>1607354095986</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1607354095986</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Image">
-      <created>1607354432579</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1607354432579</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Image">
-      <created>1607354912991</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1607354912991</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Image">
-      <created>1607355651402</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1607355651402</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,29 +136,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="Image" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="975" y="112" key="CommitChangelistDialog2" timestamp="1607355651034">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="975" y="112" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1607355651034" />
     <state x="849" y="398" key="FileChooserDialogImpl" timestamp="1605219434333">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="849" y="398" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1605219434333" />
-    <state x="1081" y="276" key="Vcs.Push.Dialog.v2" timestamp="1607356518445">
+    <state x="701" y="469" width="596" height="536" key="find.popup" timestamp="1605502513356">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1081" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607356518445" />
-    <state x="880" y="98" width="1042" height="887" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607356565292">
+    <state x="701" y="469" width="596" height="536" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605502513356" />
+    <state x="720" y="240" key="git4idea.branch.GitSmartOperationDialog" timestamp="1607357913527">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="880" y="98" width="1042" height="887" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607356565292" />
-    <state x="592" y="265" width="604" height="801" key="find.popup" timestamp="1607356299879">
+    <state x="720" y="240" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607357913527" />
+    <state x="471" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1604694642493">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="592" y="265" width="604" height="801" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1607356299879" />
-    <state x="471" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1607356310552">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="471" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1607356310552" />
+    <state x="471" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604694642493" />
   </component>
 </project>
