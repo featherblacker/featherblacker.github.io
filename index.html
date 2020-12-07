@@ -64,7 +64,8 @@ changefreq: yearly
         <!-- Posts -->
         <section class="posts">
             {% for post in site.posts limit:3 %}
-            {% assign mod3 = forloop.index | modulo: 3 %}
+            {% assign mod3 = forloop.index}
+            {% if mod3 > 1 %}
             <article>
                 <header>
                     <span class="date">{{ post.date | date_to_string }}</span>
@@ -72,11 +73,12 @@ changefreq: yearly
                 </header>
                 <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}"
                                                                                alt=""/></a>
-                <h6>{{ post.excerpt }}</h6>
+                <span><p>{{ post.excerpt }}</p></span>>
                 <ul class="actions">
                     <li><a href="{{ post.url | absolute_url }}" class="button">More</a></li>
                 </ul>
             </article>
+            {% endif %}
             {% if mod3 == 0 %}
             <article>
                 <header>

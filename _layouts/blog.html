@@ -30,9 +30,7 @@
                 <h2><a href="#">Blogs</a></h2>
                 <p>Blogs</p>
             </header>
-            <p>
-                Blogs
-            </p>
+			<span><p>Blogs</p></span>>
 
         </article>
         <!-- Post -->
@@ -47,7 +45,7 @@
                 </header>
                 <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}"
                                                                                alt=""/></a>
-                <span>{{ post.excerpt }}</span>
+				<span><p>{{ post.excerpt }}</p></span>>
                 <ul class="actions">
                     <li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
                 </ul>
