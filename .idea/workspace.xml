@@ -34,7 +34,6 @@
   <component name="ChangeListManager">
     <list default="true" id="07c5a700-32c3-4f08-bbf9-589b3540a838" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-30-menu-builder.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-30-menu-builder.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +104,7 @@
       <workItem from="1605219201663" duration="294000" />
       <workItem from="1605499766981" duration="2169000" />
       <workItem from="1607353425867" duration="630000" />
-      <workItem from="1607369246554" duration="1535000" />
+      <workItem from="1607369246554" duration="1635000" />
     </task>
     <task id="LOCAL-00001" summary="Image">
       <created>1605500006679</created>
@@ -177,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607377796374</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Image">
+      <created>1607378091851</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607378091851</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,18 +221,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="828" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607368173334" />
-    <state x="534" y="95" key="CommitChangelistDialog2" timestamp="1607377796008">
+    <state x="534" y="95" key="CommitChangelistDialog2" timestamp="1607378091546">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="534" y="95" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1607377796008" />
+    <state x="534" y="95" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1607378091546" />
     <state x="849" y="398" key="FileChooserDialogImpl" timestamp="1607365036220">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="849" y="398" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1607365036220" />
-    <state x="599" y="260" key="Vcs.Push.Dialog.v2" timestamp="1607377799212">
+    <state x="599" y="260" key="Vcs.Push.Dialog.v2" timestamp="1607378098725">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="599" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607377799212" />
+    <state x="599" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607378098725" />
     <state x="526" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607363714672">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
