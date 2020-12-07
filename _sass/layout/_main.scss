@@ -91,6 +91,10 @@
 				border-top-width: 2px;
 				text-align: center;
 
+				> .excerpt {
+					margin-bottom: 1rem;
+				}
+
 				> :last-child {
 					margin-bottom: 0;
 				}
