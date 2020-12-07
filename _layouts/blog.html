@@ -11,7 +11,7 @@
 
     <!-- Header -->
     <header id="header">
-        <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+        <a href="{{ {/} | absolute_url }}" class="logo">{{site.title}}</a>
     </header>
 
 
@@ -28,16 +28,13 @@
         <article class="post featured">
             <header class="major">
                 <h2><a href="#">Blogs</a></h2>
-                <p>Blogs</p>
             </header>
-			<span><p>Blogs</p></span>>
 
         </article>
         <!-- Post -->
         <section class="posts">
             {% for post in site.posts %}
             {% assign mod3 = forloop.index %}
-			{% if mod3 > 1 %}
             <article>
                 <header>
                     <span class="date">{{ post.date | date_to_string }}</span>
@@ -50,7 +47,6 @@
                     <li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
                 </ul>
             </article>
-			{% endif %}
             {% if mod3 == 0 %}
             <article>
                 <header>
