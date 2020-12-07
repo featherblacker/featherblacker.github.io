@@ -32,11 +32,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c5a700-32c3-4f08-bbf9-589b3540a838" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="07c5a700-32c3-4f08-bbf9-589b3540a838" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607362528325</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Image">
+      <created>1607363719625</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607363719625</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,22 +178,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="Image" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="534" y="95" key="CommitChangelistDialog2" timestamp="1607362528015">
+    <state x="534" y="95" key="CommitChangelistDialog2" timestamp="1607363719305">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="534" y="95" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1607362528015" />
+    <state x="534" y="95" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1607363719305" />
     <state x="849" y="398" key="FileChooserDialogImpl" timestamp="1605219434333">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="849" y="398" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1605219434333" />
-    <state x="599" y="260" key="Vcs.Push.Dialog.v2" timestamp="1607362531002">
+    <state x="599" y="260" key="Vcs.Push.Dialog.v2" timestamp="1607363722424">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="599" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607362531002" />
-    <state x="701" y="469" width="604" height="536" key="find.popup" timestamp="1607361952172">
+    <state x="599" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607363722424" />
+    <state x="526" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607363714672">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="701" y="469" width="604" height="536" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1607361952172" />
+    <state x="526" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607363714672" />
+    <state x="701" y="469" width="604" height="536" key="find.popup" timestamp="1607363710508">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="701" y="469" width="604" height="536" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1607363710508" />
     <state x="720" y="240" key="git4idea.branch.GitSmartOperationDialog" timestamp="1607357913527">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
