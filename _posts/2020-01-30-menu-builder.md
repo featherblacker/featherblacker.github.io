@@ -2,7 +2,7 @@
 layout: post
 title:  "Restaurant menu builder"
 date:   2020-01-30
-excerpt: "Fox menu builder"
+excerpt: "A website for people to build menus"
 image: "/images/menu-builder.png"
 ---
 
