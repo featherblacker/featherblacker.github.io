@@ -33,8 +33,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c5a700-32c3-4f08-bbf9-589b3540a838" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-12-06-Todo-List.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/todos.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_image.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +77,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chuqi\WebstormProjects\featherblacker.github.io\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\chuqi\WebstormProjects\featherblacker.github.io\images" />
       <recent name="C:\Users\chuqi\WebstormProjects\featherblacker.github.io" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\chuqi\WebstormProjects\featherblacker.github.io\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -104,7 +106,8 @@
       <workItem from="1605219201663" duration="294000" />
       <workItem from="1605499766981" duration="2169000" />
       <workItem from="1607353425867" duration="630000" />
-      <workItem from="1607369246554" duration="1635000" />
+      <workItem from="1607369246554" duration="1678000" />
+      <workItem from="1607874516595" duration="1078000" />
     </task>
     <task id="LOCAL-00001" summary="Image">
       <created>1605500006679</created>
@@ -183,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607378091851</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Image">
+      <created>1607378192923</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607378192923</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,26 +231,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="828" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607368173334" />
-    <state x="534" y="95" key="CommitChangelistDialog2" timestamp="1607378091546">
+    <state x="534" y="95" key="CommitChangelistDialog2" timestamp="1607378192612">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="534" y="95" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1607378091546" />
+    <state x="534" y="95" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1607378192612" />
     <state x="849" y="398" key="FileChooserDialogImpl" timestamp="1607365036220">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="849" y="398" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1607365036220" />
-    <state x="599" y="260" key="Vcs.Push.Dialog.v2" timestamp="1607378098725">
+    <state x="599" y="260" key="Vcs.Push.Dialog.v2" timestamp="1607378196638">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="599" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607378098725" />
+    <state x="599" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607378196638" />
     <state x="526" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607363714672">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="526" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607363714672" />
-    <state x="1120" y="425" width="604" height="536" key="find.popup" timestamp="1607378058135">
+    <state x="687" y="423" width="604" height="536" key="find.popup" timestamp="1607875166701">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1120" y="425" width="604" height="536" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1607378058135" />
+    <state x="687" y="423" width="604" height="536" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1607875166701" />
     <state x="720" y="240" key="git4idea.branch.GitSmartOperationDialog" timestamp="1607357913527">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
